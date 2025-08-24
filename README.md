@@ -30,6 +30,15 @@ I strive to improve myself through research, learning new information, communica
 
 ---
 
+## 📜 Certificates
+
+| | | |
+|:--:|:--:|:--:|
+| [![Certificate 1](https://via.placeholder.com/250x180.png?text=BTK+Certificate+1)](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=vpWcn8DzpO) | [![Certificate 2](https://via.placeholder.com/250x180.png?text=BTK+Certificate+2)](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=GoDfn9plew) | [![Certificate 3](https://via.placeholder.com/250x180.png?text=IBB+Certificate+1)](https://enstitu.ibb.istanbul/portal/BelgeYazdir.aspx?u=10089437-2024-2025) |
+| [![Certificate 4](https://via.placeholder.com/250x180.png?text=IBB+Certificate+2)](https://enstitu.ibb.istanbul/portal/BelgeYazdir.aspx?u=10093518-2024-2025) |  |  |
+
+---
+
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kursatfndk&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kursatfndk&layout=compact&theme=radical)
