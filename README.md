@@ -37,7 +37,7 @@ I strive to improve myself through research, learning new information, communica
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kursatfndk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=kursatfndk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
