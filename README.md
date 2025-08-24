@@ -36,11 +36,6 @@ I strive to improve myself through research, learning new information, communica
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=kursatfndk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kursat-emre-findik/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/kursat.fndk/)  
