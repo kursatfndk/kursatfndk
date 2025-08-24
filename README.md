@@ -34,8 +34,8 @@ I strive to improve myself through research, learning new information, communica
 
 | | | |
 |:--:|:--:|:--:|
-| [![Certificate 1](https://via.placeholder.com/250x180.png?text=BTK+Certificate+1)](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=vpWcn8DzpO) | [![Certificate 2](https://via.placeholder.com/250x180.png?text=BTK+Certificate+2)](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=GoDfn9plew) | [![Certificate 3](https://via.placeholder.com/250x180.png?text=IBB+Certificate+1)](https://enstitu.ibb.istanbul/portal/BelgeYazdir.aspx?u=10089437-2024-2025) |
-| [![Certificate 4](https://via.placeholder.com/250x180.png?text=IBB+Certificate+2)](https://enstitu.ibb.istanbul/portal/BelgeYazdir.aspx?u=10093518-2024-2025) |  |  |
+| [![Certificate 1](certificates/cert1.png)](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=vpWcn8DzpO) | [![Certificate 2](certificates/cert2.png)](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=GoDfn9plew) | [![Certificate 3](certificates/cert3.png)](https://enstitu.ibb.istanbul/portal/BelgeYazdir.aspx?u=10089437-2024-2025) |
+| [![Certificate 4](certificates/cert4.png)](https://enstitu.ibb.istanbul/portal/BelgeYazdir.aspx?u=10093518-2024-2025) |  |  |
 
 ---
 
