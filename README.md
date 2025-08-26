@@ -26,7 +26,7 @@ I strive to improve myself through research, learning new information, communica
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-005571?&logo=plotly)
 
 ### 🗄 Database Management  
-![SQL Server](https://custom-icon-badges.demolab.com/badge/SQL%E2%80%93Server-CC2927.svg?logo=ms%20sql%20server&logoColor=white)  
+![SQL Server](https://custom-icon-badges.demolab.com/badge/SQL%E2%80%93Server-CC2927.svg?logo=sql1&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=black)
 
 ---
