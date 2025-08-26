@@ -17,7 +17,7 @@ I strive to improve myself through research, learning new information, communica
 ![Django](https://img.shields.io/badge/-Django-092E20?&logo=django)
 
 ### 💻 Programming Language  
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
 
 ### 📊 Data Analytics  
