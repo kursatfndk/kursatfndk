@@ -1,5 +1,5 @@
 # Welcome! I'm Kürşat Emre Fındık ✌️
-![Profile Views](https://komarev.com/ghpvc/?username=kursatfndk&color=blue)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=kursatfndk&color=blue)-->
 
 > "Talk is cheap. Show me the code." – Linus Torvalds
 
