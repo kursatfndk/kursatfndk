@@ -36,7 +36,7 @@ I strive to improve myself through research, learning new information, communica
 | | | |
 |:--:|:--:|:--:|
 | [![Certificate 1](certificates/cert1.PNG)](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=vpWcn8DzpO) | [![Certificate 2](certificates/cert2.PNG)](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=GoDfn9plew) | [![Certificate 3](certificates/cert3.PNG)](https://enstitu.ibb.istanbul/portal/BelgeYazdir.aspx?u=10089437-2024-2025) |
-| [![Certificate 4](certificates/cert4.PNG)](https://enstitu.ibb.istanbul/portal/BelgeYazdir.aspx?u=10093518-2024-2025) |  |  |
+| [![Certificate 4](certificates/cert4.PNG)](https://enstitu.ibb.istanbul/portal/BelgeYazdir.aspx?u=10093518-2024-2025) | [![Certificate 5](certificates/cert5.PNG)](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=rKjhaaZ1gL)  |  |
 
 ---
 
