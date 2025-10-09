@@ -19,6 +19,7 @@ I strive to improve myself through research, learning new information, communica
 ### 💻 Programming Language  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
 
 ### 📊 Data Analytics  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas)  
