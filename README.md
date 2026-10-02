@@ -10,6 +10,46 @@ I strive to improve myself through research, learning new information, communica
 
 ---
 
+## 🚀 Projects
+
+### FlowKit — PDF, Image & Everyday Tools
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.flowkit.app">
+    <img src="Projects/FlowKit%20Reklam.png" alt="FlowKit — Android productivity toolkit" width="560">
+  </a>
+</p>
+
+**🟢 Live on Google Play · Actively maintained**
+
+An Android app I built with **Flutter and Dart**, bringing **29 tools** for images, documents, and everyday tasks into one place.
+
+- **PDF tools:** compress, merge, and split documents.
+- **Image tools:** compress, resize, and convert images.
+- **OCR & scanning:** text recognition and document scanning with Google ML Kit.
+- **My role:** independent developer, from interface design and implementation to testing and Google Play release.
+
+**Tech stack:** Flutter · Dart · Android · Google ML Kit  
+**Development:** July 2026 – present  
+**Released:** September 30, 2026
+
+### [▶ Get FlowKit on Google Play](https://play.google.com/store/apps/details?id=com.flowkit.app)
+
+<details>
+<summary>📱 View app screenshots</summary>
+<br>
+<p align="center">
+  <img src="Projects/FlowKit%20images.jpeg" alt="FlowKit app screenshot 1" width="200">
+  <img src="Projects/FlowKit%20images%201.jpeg" alt="FlowKit app screenshot 2" width="200">
+  <img src="Projects/FlowKit%20images%202.jpeg" alt="FlowKit app screenshot 3" width="200">
+  <img src="Projects/FlowKit%20images%203.jpeg" alt="FlowKit app screenshot 4" width="200">
+  <img src="Projects/FlowKit%20images%204.jpeg" alt="FlowKit app screenshot 5" width="200">
+</p>
+</details>
+
+---
+
+
 ## 🛠 Technical Expertise  
 
 ### 🌐 Web Development  
